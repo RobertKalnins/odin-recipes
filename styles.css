@@ -1,1 +1,22 @@
 /* styles.css */
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: beige;
+}
+
+ul {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+    background-color: beige;
+}
+li {
+    background-color: bisque;
+    font-size: 16px;
+}
+
+h4 {
+    text-decoration: underline;
+}
